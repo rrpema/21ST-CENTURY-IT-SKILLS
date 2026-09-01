@@ -1,9 +1,9 @@
 <h1 align="center">𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑹𝒐𝒙𝒂𝒏𝒏𝒆!</h1>
 BS-Nursing 4F | 21st Century IT Skills
 
-I am a nursing student exploring technology and developing essential digital skills through our 21st Century IT Skills course.
+I am currently a fourth year  nursing student exploring technology and developing essential digital skills through our 21st Century IT Skills course.
 
-This GitHub serves as a collection of my academic activities, exercises, and outputs as I learn how information technology and digital tools can be applied in academics, healthcare, and everyday life.
+This GitHub will serve as a collection of my academic activities, exercises, and outputs as I learn how information technology and digital tools can be applied in academics, healthcare, and everyday life.
 
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
