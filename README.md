@@ -1,9 +1,5 @@
-
-<p align="center">
-  <img src="ELECTIVE_IT/GITHUB-HEADER.png" width="100%">
-</p>
+<img width="1280" height="400" alt="GITHUB-HEADER" src="https://github.com/user-attachments/assets/971a8c6c-4780-44c4-9456-c1f2b03f47ef" />
 <h1 align="center">𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑹𝒐𝒙𝒂𝒏𝒏𝒆!</h1>
-BS-Nursing 4F | 21st Century IT Skills
 
 I am currently a fourth year  nursing student exploring technology and developing essential digital skills through our 21st Century IT Skills course.
 
@@ -26,10 +22,8 @@ It serves as a record of my learning experiences and the digital skills I develo
 
 ## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
 
-★ GitHub Use 
-★ Digital Collaboration  
+★ GitHub Use  
 ★ Information Technology  
 ★ Digital Productivity Tools  
 ★ Technology Applications in Healthcare  
-★ 21st Century Digital Skills  
-
+★ 21st Century Digital Skills 
