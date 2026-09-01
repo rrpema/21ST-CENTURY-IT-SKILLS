@@ -5,16 +5,13 @@ I am currently a fourth year  nursing student exploring technology and developin
 
 This GitHub will serve as a collection of my academic activities, exercises, and outputs as I learn how information technology and digital tools can be applied in academics, healthcare, and everyday life.
 
-## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
-
 ★ BS Nursing Student  
 ★ Currently taking 21st Century IT Skills  
 ★ Interested in healthcare, technology, and digital literacy  
 ★ Exploring the role of technology in nursing and healthcare  
 
-## 𝑴𝒚 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚
-
-### 21ST CENTURY IT SKILLS
+/Users/wruema/Downloads/GITHUB-HEADER (1280 x 150 px)-2.png 
+### 21ST CENTURY IT SKILLS 
 
 This repository contains my activities, exercises, projects, and other academic outputs for the 21st Century IT Skills course.
 
