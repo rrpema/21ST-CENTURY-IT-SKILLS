@@ -8,7 +8,9 @@ This GitHub will serve as a collection of my academic activities, exercises, and
 <img width="1280" height="150" alt="GITHUB-HEADER (1280 x 150 px)-4" src="https://github.com/user-attachments/assets/9a1fc02b-d341-45d2-83a0-b6d017c8e055" />
 
 ★ A creative by heart and through passion 
+
 ★ Interested in the whimsy and art of the world!
+
 ★ Exploring the role of technology in nursing and healthcare  
 
 <img width="1280" height="150" alt="GITHUB-HEADER (1280 x 150 px)-2" src="https://github.com/user-attachments/assets/2646d652-0c91-409b-8540-525c1003ea56" />
