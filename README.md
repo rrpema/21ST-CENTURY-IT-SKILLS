@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ELECTIVE_IT/GITHUB-HEADER.png" width="100%">
+</p>
 <h1 align="center">𝑯𝒆𝒍𝒍𝒐, 𝑰'𝒎 𝑹𝒐𝒙𝒂𝒏𝒏𝒆!</h1>
 BS-Nursing 4F | 21st Century IT Skills
 
