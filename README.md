@@ -18,11 +18,5 @@ This GitHub will serve as a collection of my academic activities, exercises, and
 This repository contains my activities, exercises, projects, and other academic outputs for the 21st Century IT Skills course.
 
 It serves as a record of my learning experiences and the digital skills I develop throughout the course.
+<img width="1280" height="150" alt="GITHUB-HEADER (1280 x 150 px)-5" src="https://github.com/user-attachments/assets/0583b986-6d24-46d1-a2b8-bf5558da3af9" />
 
-## 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈
-
-★ GitHub Use  
-★ Information Technology  
-★ Digital Productivity Tools  
-★ Technology Applications in Healthcare  
-★ 21st Century Digital Skills 
