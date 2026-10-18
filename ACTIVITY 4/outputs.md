@@ -52,3 +52,23 @@ Meanwhile, <b>Google Forms</b> allows users to create surveys, quizzes, registra
 <p align="justify">
 Through this activity, I learned how Google Drive and Google Classroom can make digital organization, task management, and resource sharing more efficient. Google Drive helps users store, access, and back up important files securely, while Google Classroom makes it easier to submit assignments, track deadlines, and communicate with instructors.
 </p>
+<a href="Activity%204%20Outputs/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
+  📄 View Google Meet & Forms PPT →
+</a>
+
+<br>
+<br>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform?usp=sharing&ouid=118413879498339873868">
+  📝 View Google Forms Quiz →
+</a>
+
+<br>
+<br>
+
+<a href="[GE-4120-_-G4_Quiz.pdf](https://github.com/user-attachments/files/33614323/GE-4120-_-G4_Quiz.pdf)
+">📊 View Classmates' Quiz Scores →
+</a>
+
+<br>
+<br>
